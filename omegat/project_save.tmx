@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.4" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>A Prehistoric Killer, Buried In Muck（Excerpt）</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20181206T050618Z" creationid="xulihang" creationdate="20181206T050618Z">
+        <seg>一个史前的杀手，埋在淤泥（摘录）</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
