@@ -12,6 +12,14 @@
         <seg>一个史前的杀手，埋在淤泥（摘录2）</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On a sunny January morning outside Richmond Hill, Georgia, Bill Eberlein, a fifty-two-year-old former I.T.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="xulihang" changedate="20181206T050918Z" creationid="xulihang" creationdate="20181206T050918Z">
+        <seg>在一个阳光明媚的日上午外Richmond Hill、格鲁吉亚、比尔Eberlein，大会第五十二岁的前一T.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
